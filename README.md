@@ -10,9 +10,12 @@ Before you can run the website, you will need a web browser installed on your co
 Installing
 Open the project folder on your computer.
 Double-click on the index.html file to open the website in your web browser.
+
 Built With:
 HTML
 CSS
+
+
 Authors: Nibraz Rehaman
 
 
