@@ -4,10 +4,10 @@ This is a recipe website built using HTML and CSS. The website features a clean 
 Getting Started
 To get started, you can either clone the repository or download the zip file.
 
-Prerequisites
+Prerequisites:
 Before you can run the website, you will need a web browser installed on your computer.
 
-Installing
+Installing :
 Open the project folder on your computer.
 Double-click on the index.html file to open the website in your web browser.
 
